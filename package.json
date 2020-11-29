@@ -1,0 +1,7 @@
+{
+  "name": "@hiorii/randomid-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Bartosz Janiak <janiak.bartosz92@gmail.com>",
+  "license": "MIT"
+}
